@@ -1,12 +1,4 @@
-//
-// Created by maks on 16.10.23.
-//
-
 #include "heap.h"
-#include "tested_declarations.h"
-#include "rdebug.h"
-#include "tested_declarations.h"
-#include "rdebug.h"
 
 struct memory_manager_t manager;
 

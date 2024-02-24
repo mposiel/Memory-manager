@@ -1,7 +1,3 @@
-//
-// Created by maks on 16.10.23.
-//
-
 #ifndef ALLOC_PROJECT_HEAP_H
 #define ALLOC_PROJECT_HEAP_H
 
